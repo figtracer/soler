@@ -86,28 +86,6 @@ soler/
 ├── package.json       # Node.js dependencies
 └── vite.config.js     # Vite configuration
 ```
-
-## Documentation
-
-### Adding Images to Documentation
-
-You can enhance your documentation with images using Markdown syntax:
-
-```markdown
-![Alt Text](path/to/image.png)
-```
-
-For this project:
-- Store documentation images in the `docs/` directory
-- Use relative paths in markdown files
-- Optimize images for web (compress PNGs, use appropriate dimensions)
-- Consider adding multiple screenshots showing different features
-
-Example of adding another image:
-```markdown
-![Control Flow Graph Example](docs/graph-example.png)
-```
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details. 
